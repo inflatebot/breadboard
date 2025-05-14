@@ -32,4 +32,4 @@ BreadBoard provides you everything you need and nothing you don't; and has an er
 
 The documentation is in sections on HackMD.
 
-Next: [The Anatomy of a Circuit](https://hackmd.io/naFS7CblRzuKg0CvDtp06A)
+Next: [The Anatomy of a Circuit](https://hackmd.io/c57vl-puThC4qM21UVF8dA)
